@@ -1,37 +1,41 @@
 {
   "type": "FeatureCollection",
-  "locations": [{
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-97.8447296, 30.2740957]
+  "locations": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8447296, 30.2740957]
+      },
+      "properties": {
+        "name": "Lost Creek",
+        "description": "Swimming Spot",
+        "siteNum": "08155240"
+      }
     },
-    "properties": {
-      "name": "Lost Creek",
-      "description": "Swimming Spot",
-      "siteNum": "08155240"
-    }
-  },{
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-97.8022283, 30.24465306]
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8022283, 30.24465306]
+      },
+      "properties": {
+        "name": "Loop 360",
+        "description": "Swimming Spot",
+        "siteNum": "08155300"
+      }
     },
-    "properties": {
-      "name": "Loop 360",
-      "description": "Swimming Spot",
-      "siteNum": "08155300"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.772228, 30.26354168]
+      },
+      "properties": {
+        "name": "Above Barton Springs",
+        "description": "Swimming Spot",
+        "siteNum": "08155400"
+      }
     }
-  },{
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-97.772228, 30.26354168]
-    },
-    "properties": {
-      "name": "Above Barton Springs",
-      "description": "Swimming Spot",
-      "siteNum": "08155400"
-    }
-  }]
+  ]
 }
