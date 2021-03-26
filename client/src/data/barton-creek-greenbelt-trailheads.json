@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "locations": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7731625, 30.2642828]
+      },
+      "properties": {
+        "name": "The Trailhead",
+        "type": "Trailhead",
+        "address": "2201 Barton Springs Rd",
+        "address2": "Austin, TX 78746",
+        "description": "The Trailhead entrance to Greenbelt is a low-impact trail for beginner hikers. This access point is the most accessible entrance for downtown dwellers and paid parking is readily available. The trail itself is flat enough for a relaxed first-time hike, but watch out because it is also frequented by avid joggers and bikers. Four miles into the Trailhead, the path will be divided by a fork at which you can continue on the Greenbelt or diverge onto the Violet Crown Trail."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7826545, 30.2550593]
+      },
+      "properties": {
+        "name": "Barton Hills Access",
+        "type": "Trailhead",
+        "address": "2010 Homedale Dr",
+        "address2": "Austin, TX 78704",
+        "description": "Found just north of Barton Hills Elementary School, you can access the east entrance of the Greenbelt from Barton Hills, a residential neighborhood. This entrance leads to multiple hiking trails as well as Campbell’s Hole, a popular family-friendly swimming hole."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7950705, 30.2494158]
+      },
+      "properties": {
+        "name": "Gus Fruh Access",
+        "type": "Trailhead",
+        "address": "2632 Barton Hills Dr",
+        "address2": "Austin, TX 78704",
+        "description": "Looking for a more adventurous swim? The Gus Fruh access point, which is also located in a private neighborhood, provides access to some lesser-known, deeper swimming holes as well as a handful of climbing walls just south of the entrance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8177917, 30.2336845]
+      },
+      "properties": {
+        "name": "Violet Crown Trail: 290 Trailhead",
+        "type": "Trailhead",
+        "address": "4970 Hwy. 290 W.",
+        "address2": "Austin, TX 78749",
+        "description": "The Violet Crown Trail follows the Greenbelt from Barton Springs and notably features a plethora of caves and cliffs for the spelunker at heart. This access point is for the adventurous hiker looking for a challenging trail. It's home to several advanced creek crossings and steep climbs but nothing a semi-experienced hiker can't handle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8009115, 30.2433096]
+      },
+      "properties": {
+        "name": "Lost Creek",
+        "type": "Trailhead",
+        "address": "3755 S Capital of TX Hwy. W.",
+        "address2": "Austin, TX 78704",
+        "description": "Also known as the “tourist entrance,” Lost Creek is now one of the most frequented entryways to the Greenbelt. This once-secluded patch of greenery is now a popular watering hole equipped with parking, plenty of hammock space, and a lounge room for partygoers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8009115, 30.2433096]
+      },
+      "properties": {
+        "name": "Loop 360 Access",
+        "type": "Trailhead",
+        "address": "3755 S Capital of TX Hwy. W.",
+        "address2": "Austin, TX 78704",
+        "description": "Perhaps the most popular Greenbelt access point (perhaps because it's the recommended access point by Google Maps), the Loop 360 entrance is visitor-friendly with plentiful parking and access to pretty much every trail Greenbelt has to offer. This entrance is also the main access point for the climbing destination Seismic Wall and is very popular for mountain biking."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7785769, 30.3786127]
+      },
+      "properties": {
+        "name": "Bull Creek",
+        "type": "Trailhead",
+        "address": "7806 Capital of TX Hwy. N.",
+        "address2": "Austin, TX 78750",
+        "description": "Bull Creek is ideal for a day of wholesome family fun. Set up with volleyball nets, picnic tables, and scattered with small waterfalls, Bull Creek is a little nook of nature for a day of wholesome outdoor activities."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8244375, 30.2692706]
+      },
+      "properties": {
+        "name": "Trail's End",
+        "type": "Trailhead",
+        "address": "1710 Camp Craft Rd.",
+        "address2": "Austin, TX 78746",
+        "description": "If you’re a serious, no-frills hiker, Trails End is the entrance for you. This access point leads to plenty of secluded trails ready to be explored as well as access to two hidden Greenbelt gems: the Hill of Life, which is a half-mile downhill hike from the entrance that ends at the foot of Sculpture Falls, a concealed swimming hole, perfect for a post-hike dip."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.8244375, 30.2692706]
+      },
+      "properties": {
+        "name": "Twin Falls/Gaines Creek and Sculpture Falls Access",
+        "type": "Trailhead",
+        "address": "3918 MoPac S.",
+        "address2": "Austin, TX 78746",
+        "description": "There is no official parking lot for the Twin Falls/Sculpture Falls access point, so keep an eye out for parked cars on the side of the road. If you’re willing to go the extra mile to hike up Gaines, your reward is Twin Falls. The less-frequented and scenic expanse is perfect for photo-ops and picnics."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7891288, 30.2592064]
+      },
+      "properties": {
+        "name": "Spyglass Access",
+        "type": "Trailhead",
+        "address": "1601 Spyglass",
+        "address2": "Austin, TX 78746",
+        "description": "Known for its proximity to Tacodeli, the Spyglass entrance is a great place to lounge post-pig-out. Spyglass provides easy access to Campbell’s Hole, and after you’re done digesting you can hit the trails or climb south to reach the Greenbelt's Enclave, a prime bouldering wall. If you’re feeling particularly energetic, go further down to Seismic Wall, a more advanced bouldering area."
+      }
+    }
+  ]
+}
